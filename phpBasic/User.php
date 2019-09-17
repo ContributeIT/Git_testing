@@ -37,3 +37,4 @@ $VIPUSER = new VipUser();
 $VIPUSER->setName('steven');
 $VIPUSER->vip('Vip 1');
 print_r($VIPUSER->getName());
+master 
